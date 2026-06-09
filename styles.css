@@ -1,0 +1,5 @@
+body{background-color: #F5D5F0;}
+h1{color: #52160B; font-family: Lucida Handwriting;font-size: 50px; text-align: center; border-style: double; border-color: #52160B; padding-top: 20px; margin: 50px;}
+p{color: #52160B; font-family: Courier; font-size:15px; text-align: center; background-color:#FAF7DC; margin-left: 15%; margin-right:15%; padding:10px; }
+img{display: block; margin: auto; border-style: double; border-color: #52160B; padding:20px; border-width:10px} 
+a{color: #52160B; text-decoration: none; font-family: Courier}
